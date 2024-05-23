@@ -1,0 +1,12 @@
+[host]
+ip = 192.168.1.100
+port = 22
+username = ubuntu
+password = 123456789
+# 上传次数
+count = 10
+[file]
+# 临时文件 1000000 约等于 1M
+size = 1000000
+source = tmp_file
+destination = /home/ubuntu/tmp

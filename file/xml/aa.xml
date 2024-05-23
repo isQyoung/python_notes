@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><root shelf="This is root">
+  <node title="This is node">
+       <date>2022</date>
+       <description>XML example file</description>
+       <attribute key="KEY1" value="VALUE1"/>
+       <attribute key="KEY2" value="VALUE2"/>
+  </node>
+</root>
